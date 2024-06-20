@@ -1,6 +1,21 @@
 # uas_perangkat_bergerak
 
-A new Flutter project.
+KELOMPOK 6 :
+- Alif ihsan
+- Calvin Saputra Pratama
+- Dyah Fathonah Ramadhani
+- ⁠Indah Romadansyah
+- M. Fajar
+- Muhammad Rendi Herdasaputra
+- Muhammad Reza Vidiansyah
+
+
+
+
+
+
+
+Project menggunakan API 
 
 ## Getting Started
 

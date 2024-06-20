@@ -5,7 +5,7 @@ KELOMPOK 6 :
 - Calvin Saputra Pratama
 - Dyah Fathonah Ramadhani
 - ⁠Indah Romadansyah
-- M. Fajar
+- Muhammad Fajar
 - Muhammad Rendi Herdasaputra
 - Muhammad Reza Vidiansyah
 
